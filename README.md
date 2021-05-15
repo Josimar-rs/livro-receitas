@@ -5,4 +5,5 @@
 - strogonoff de frango 
 - Pavê
 - Bolo de Cenoura
+- Moqueca de Camarão
 
